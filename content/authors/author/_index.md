@@ -1,21 +1,21 @@
 ---
-title: Example Author
-role: Example Role
+title: Tho Pham
+role: Senior Software Engineer
 avatar: images/icon.png
-bio: Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur.
+bio: some bios.
 organization:
-  name: Example Organization
-  url: https://example.com/
+  name: Gobench
+  url: https://github.com/gobench-io/gobench
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:example@example.com
+    url: mailto:dtpham258@gmail.com
   - icon: twitter
     iconPack: fab
-    url: https://example.com/
+    url: https://fb.com/nguyencatpham
   - icon: github
     iconPack: fab
-    url: https://example.com/
+    url: https://github.com/nguyencatpham/
 ---
 
 ## Self Introduction
