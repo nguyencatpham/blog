@@ -3,7 +3,7 @@ title: Tho Pham
 draft: false
 role: Senior Software Engineer
 avatar: images/icon.png
-bio: some bios2.
+bio: Software Engineer Leader at VEriK Systems and collaborator at Gobench.
 organization:
   name: Gobench
   url: https://github.com/gobench-io/gobench
@@ -45,17 +45,18 @@ widget:
 
 ## Self Introduction
 
-With more than 7 years of experience in Golang, NodeJS and .NET Developer work as a software engineer in IoT distributed system, and as a software architect in web development. Design Microservices and end to end solutions with fault tolerance and high availability features with databases such as POSTGRES, MySQL, REDIS, INFLUX, and language acknowledge such as Go, .NET and Javascript(NodeJS, ReactJS). Strong cloud engineering focused on Go Developer.
+With more than 7 years of experience in Golang, NodeJS and .NET Developer work as a software engineer in IoT distributed system, and as a software architect in web development. Design Microservices and end to end solutions with fault tolerance and high availability features with databases such as POSTGRES, MySQL, REDIS, INFLUX, and language acknowledge such as Go, .NET and Javascript(NodeJS, ReactJS).
 
 ## Details  
 
-Nunc pellentesque vitae:
-- Morbi accumsan nibh efficitur diam molestie, non dignissim diam facilisis.
-- Donec dignissim leo in mollis faucibus.
-- Donec blandit lacus a pellentesque fermentum.
+Tools:
 
-Donec mollis sollicitudin:
-- Nunc dictum purus ornare purus consectetur, eu pellentesque massa ullamcorper.
-- Aliquam eu leo vitae justo aliquam tincidunt.
-- Fusce non massa id augue interdum feugiat sed et nulla.
-- Vivamus molestie augue in tristique laoreet.
+- Language: Go, NodeJS, C#.
+- Orchestration: Kubernetes.
+- Management: Redmine, Jira.
+- CI/CD tools: Jenkins, GitLab CI, Github Action.
+
+Expirences:
+
+- IoT industry in more than 5 years.
+- Warehouse and ERP management in 2 years.

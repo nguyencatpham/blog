@@ -2,7 +2,7 @@
 title: Experience
 draft: false
 experiences:
-  - title: Lead Software Engineer
+  - title: Software Engineer Leader
     organization:
       name: VEriK Systems
       url: https://veriksystems.com
@@ -34,7 +34,7 @@ experiences:
     writeup: >
       A benchmark framework with Golang.
 
-  - title: Lead Software Engineer
+  - title: Software Engineer Leader
     organization:
       name: OnSky
       url: https://onskyinc.vn
