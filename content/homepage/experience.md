@@ -17,7 +17,7 @@ experiences:
 
       - **AWS Cloud Architect**: ECS-Fargate, EKS, RDS, SQS, IoT & Kubernetes using CloudFormation.
 
-      - **Cloud Scalability & Availability**: Using Kubernetes Vertical/Horizontal Auto Scaling Policy to meet increasing real-time traffic demand.
+      - **High Availability**: Using Kubernetes Vertical/Horizontal Auto Scaling Policy to meet increasing real-time traffic demand.
 
       - **Performance Optimization**: Gobench (https://github.com/gobench-io/gobench) - A benchmark framework with Golang. Optimizing the performance of cloud container applications to serve increasing traffic.
 

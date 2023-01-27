@@ -7,4 +7,6 @@ clear-cache:
 build:
 	hugo --baseURL=/blog/
 deploy:
-	
+	git add -A
+	git commit -m "chore: dummies commit"
+	git push origin main

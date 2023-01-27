@@ -45,13 +45,14 @@ widget:
 
 ## Self Introduction
 
-With more than 7 years of experience in Golang, NodeJS and .NET Developer work as a software engineer in IoT distributed system, and as a software architect in web development. Design Microservices and end to end solutions with fault tolerance and high availability features with databases such as POSTGRES, MySQL, REDIS, INFLUX, and language acknowledge such as Go, .NET and Javascript(NodeJS, ReactJS).
+With more than 8 years work a software engineer in IoT industry. Responsibility to architecture, project owner, and manufacture end to end solution with fault tolerance and high availability services.
 
 ## Details  
 
 Tools:
 
 - Language: Go, NodeJS, C#.
+- Database: MySQL, Redis.
 - Orchestration: Kubernetes.
 - Management: Redmine, Jira.
 - CI/CD tools: Jenkins, GitLab CI, Github Action.
