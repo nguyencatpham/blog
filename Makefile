@@ -1,7 +1,7 @@
 run:
-	hugo server
+	hugo server --baseURL=/
 run-no-cache:
-	hugo server --disableFastRender
+	hugo server --disableFastRender --baseURL=/
 clear-cache:
 	hugo --gc
 build:
